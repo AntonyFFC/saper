@@ -30,14 +30,14 @@ Game:
 This is the in-game interface, representing the active gameplay state.
 
 ## Classes
-1. Klasa GameInetrface - responsible for general game logic and working with the GUI
-2. Klasa Board - holds the grid of cells and is responsible for actions connected to cells
-3. Klasa Cell - represents a single cell of the board and holds information about each cell and its neighbours
+1. Class GameInetrface - responsible for general game logic and working with the GUI
+2. Class Board - holds the grid of cells and is responsible for actions connected to cells
+3. Class Cell - represents a single cell of the board and holds information about each cell and its neighbours
     Flag
     Mine
     Number
     Covered
-4. Klasa MenuElement - responsible for the menu of the game
+4. Class MenuElement - responsible for the menu of the game
     ChooseGameMenu
     ChooseGamemodeMenu
     nameInputWindow
